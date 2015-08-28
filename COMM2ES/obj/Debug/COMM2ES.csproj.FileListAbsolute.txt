@@ -1,0 +1,9 @@
+c:\users\dev2\documents\visual studio 2013\Projects\COMM2ES\COMM2ES\bin\Debug\COMM2ES.exe.config
+c:\users\dev2\documents\visual studio 2013\Projects\COMM2ES\COMM2ES\obj\Debug\COMM2ES.csprojResolveAssemblyReference.cache
+c:\users\dev2\documents\visual studio 2013\Projects\COMM2ES\COMM2ES\obj\Debug\COMM2ES.Form1.resources
+c:\users\dev2\documents\visual studio 2013\Projects\COMM2ES\COMM2ES\obj\Debug\COMM2ES.Properties.Resources.resources
+c:\users\dev2\documents\visual studio 2013\Projects\COMM2ES\COMM2ES\obj\Debug\COMM2ES.csproj.GenerateResource.Cache
+c:\users\dev2\documents\visual studio 2013\Projects\COMM2ES\COMM2ES\bin\Debug\COMM2ES.exe
+c:\users\dev2\documents\visual studio 2013\Projects\COMM2ES\COMM2ES\bin\Debug\COMM2ES.pdb
+c:\users\dev2\documents\visual studio 2013\Projects\COMM2ES\COMM2ES\obj\Debug\COMM2ES.exe
+c:\users\dev2\documents\visual studio 2013\Projects\COMM2ES\COMM2ES\obj\Debug\COMM2ES.pdb
