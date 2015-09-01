@@ -8,13 +8,6 @@ using System.IO;
 
 namespace COMM2ES
 {
-    public enum HttpVerb
-    {
-        POST,
-        PUT,
-        GET,
-        DELETE,
-    }
     public delegate void SendHandler(WebRequest wr, String requestJson);
     public class HTTPHelper
     {
